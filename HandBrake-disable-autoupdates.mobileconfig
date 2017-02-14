@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>fr.handbrake.Handbrake</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.8333c4d8-e854-4721-9459-0e08702649be.alacarte.customsettings.b15c7774-c2a0-45d6-855a-699db7fc6b37</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>b15c7774-c2a0-45d6-855a-699db7fc6b37</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disable autoupdates for HandBrake</string>
+	<key>PayloadDisplayName</key>
+	<string>HandBrake update settings</string>
+	<key>PayloadIdentifier</key>
+	<string>your.org.HandBrake-update-settings</string>
+	<key>PayloadOrganization</key>
+	<string>Your Org</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8333c4d8-e854-4721-9459-0e08702649be</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
