@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.shinywhitebox.iShowU-Instant</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+								<key>SUSendProfileInfo</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.e34d6bd4-4707-4337-b957-2fb9db94aa49.alacarte.customsettings.56302978-7875-49df-8d27-8b849e1b4737</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>56302978-7875-49df-8d27-8b849e1b4737</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables autoupdates for iShowU Instant</string>
+	<key>PayloadDisplayName</key>
+	<string>iShowU Instant update settings</string>
+	<key>PayloadIdentifier</key>
+	<string>your.org.iShowUInstant-update-settings</string>
+	<key>PayloadOrganization</key>
+	<string>Your Org</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e34d6bd4-4707-4337-b957-2fb9db94aa49</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
