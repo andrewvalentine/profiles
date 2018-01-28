@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.autoupdate2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Applications</key>
+								<dict>
+									<key>/Applications/Microsoft Excel.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>XCEL15</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Applications/Microsoft OneNote.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>ONMC15</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Applications/Microsoft Outlook.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>OPIM15</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Applications/Microsoft PowerPoint.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>PPT315</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Applications/Microsoft Word.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>MSWD15</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Applications/Skype for Business.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>MSFB16</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>MSau03</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+									<key>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>Merp2</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
+								</dict>
+								<key>ChannelName</key>
+								<string>Production</string>
+								<key>DisableInsiderCheckbox</key>
+								<string>True</string>
+								<key>ExtendedLogging</key>
+								<true/>
+								<key>HowToCheck</key>
+								<string>AutomaticDownload</string>
+								<key>SendAllTelemetryEnabled</key>
+								<false/>
+								<key>StartDaemonOnAppLaunch</key>
+								<true/>
+								<key>UpdateCheckFrequency</key>
+								<integer>120</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.52cd18d4-0bc6-4cb3-a8dc-685699c42027.alacarte.customsettings.9db8cb02-ffe2-4df1-ba70-421cf0d284c4</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>9db8cb02-ffe2-4df1-ba70-421cf0d284c4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Office 2016</string>
+	<key>PayloadDisplayName</key>
+	<string>Office 2016 update settings</string>
+	<key>PayloadIdentifier</key>
+	<string>your.org.Office2016-update-settings</string>
+	<key>PayloadOrganization</key>
+	<string>Your Org</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>52cd18d4-0bc6-4cb3-a8dc-685699c42027</string>
+	<key>PayloadVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
