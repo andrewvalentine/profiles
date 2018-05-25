@@ -1,6 +1,7 @@
 Configuration Profiles for use in the management of macOS
 
-####Notes on Office 2016
+**Notes on Office2016-update-settings.mobileconfig**
+
 * Sets MAU to update all Office 2016 apps
 * Sets update channel to MS 'Production' (Insider Slow)
 * Disables user ability to modify MAU update channel setting
