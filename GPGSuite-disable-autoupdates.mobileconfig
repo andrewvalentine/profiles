@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>org.gpgtools.updater</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+								<key>SUHasLaunchedBefore</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.b61f91d7-ea67-42c7-885a-caa8e0e69405.alacarte.customsettings.115e81e7-adcf-4653-8e3e-69386839785e</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>115e81e7-adcf-4653-8e3e-69386839785e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables autoupdates for GPG Suite</string>
+	<key>PayloadDisplayName</key>
+	<string>GPG Suite update settings</string>
+	<key>PayloadIdentifier</key>
+	<string>your.org.GPGSuite-disable-autoupdates</string>
+	<key>PayloadOrganization</key>
+	<string>Your Org</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>b61f91d7-ea67-42c7-885a-caa8e0e69405</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
