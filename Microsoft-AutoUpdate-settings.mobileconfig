@@ -19,35 +19,35 @@
 									<key>/Applications/Microsoft Excel.app</key>
 									<dict>
 										<key>Application ID</key>
-										<string>XCEL15</string>
+										<string>XCEL2019</string>
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
 									<key>/Applications/Microsoft OneNote.app</key>
 									<dict>
 										<key>Application ID</key>
-										<string>ONMC15</string>
+										<string>ONMC2019</string>
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
 									<key>/Applications/Microsoft Outlook.app</key>
 									<dict>
 										<key>Application ID</key>
-										<string>OPIM15</string>
+										<string>OPIM2019</string>
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
 									<key>/Applications/Microsoft PowerPoint.app</key>
 									<dict>
 										<key>Application ID</key>
-										<string>PPT315</string>
+										<string>PPT32019</string>
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
 									<key>/Applications/Microsoft Word.app</key>
 									<dict>
 										<key>Application ID</key>
-										<string>MSWD15</string>
+										<string>MSWD2019</string>
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
@@ -59,6 +59,13 @@
 										<integer>1033</integer>
 									</dict>
 									<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+									<key>/Applications/Microsoft Remote Desktop.app</key>
+									<dict>
+										<key>Application ID</key>
+										<string>MSRD10</string>
+										<key>LCID</key>
+										<integer>1033</integer>
+									</dict>
 									<dict>
 										<key>Application ID</key>
 										<string>MSau03</string>
@@ -86,7 +93,7 @@
 								<key>StartDaemonOnAppLaunch</key>
 								<true/>
 								<key>UpdateCheckFrequency</key>
-								<integer>120</integer>
+								<integer>720</integer>
 							</dict>
 						</dict>
 					</array>
@@ -105,11 +112,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Configures Office 2016</string>
+	<string>Configures Microsoft AutoUpdate</string>
 	<key>PayloadDisplayName</key>
-	<string>Office 2016 update settings</string>
+	<string>Microsoft AutoUpdate settings</string>
 	<key>PayloadIdentifier</key>
-	<string>your.org.Office2016-update-settings</string>
+	<string>your.org.Microsoft-AutoUpdate-settings</string>
 	<key>PayloadOrganization</key>
 	<string>Your Org</string>
 	<key>PayloadRemovalDisallowed</key>
